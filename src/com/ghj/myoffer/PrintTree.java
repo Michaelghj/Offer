@@ -24,12 +24,12 @@ import java.util.Stack;
  */
 public class PrintTree {
     public class Node{
-        public int value;
-        public Node left;
-        public Node right;
-        public Node(int data){
-            this.value = data;
-        }
+            public int value;
+            public Node left;
+            public Node right;
+            public Node(int data){
+                this.value = data;
+            }
     }
 
     public void fun1(Node head){
