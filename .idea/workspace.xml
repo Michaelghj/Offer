@@ -2,148 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe06cb2-b9dc-4cf8-ae80-e21f18b4d0a5" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/myoffer/DeserializeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/myoffer/InOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sort/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/InsterionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sort/src/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cakeshop/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cakeshop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/pojo/Logs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/service/GuestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/java/com/ssm/service/imp/GuestServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/ApplicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/page/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../items/ssm-demo/src/main/webapp/WEB-INF/page/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_api_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_api_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_manager_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/artifacts/shop_manager_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__com_alibaba_druid_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_orm_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/src/com/ghj/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/Java/day01/src/com/ghj/reflect/ReflectDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/ApplicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shop-parent/shop-manager/shop-manager-web/src/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/java/com/shop/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-manager/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-model/src/main/java/com/xzy/items/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/shopping-parent/shop-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/imp/UserServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo01/src/com/xzy/test/test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/spring-demo02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/imp/UserServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myspace/spring-demo03/src/com/xzy/test/test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../redis-demo/lib/commons-pool2-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../redis-demo/lib/jedis-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/resource/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/sort/Insert_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/Clone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/myoffer/Clone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/PrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/myoffer/PrintTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/PrintToMaxOfNDigits01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/PrintToMaxOfNDigits02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/myoffer/ReverseList.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,40 +18,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Clone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Power.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/InOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-              <folding>
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-              </folding>
+              <caret line="29" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/DeserializeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
@@ -201,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Symmetrical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
+            <state relative-caret-position="452">
               <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding>
                 <element signature="e#554#555#0" expanded="true" />
@@ -221,23 +69,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReverseList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/RemoveLastKNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-              <folding>
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="364">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/backtracking.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Recur.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="98">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Insert_sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -245,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Contains.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="380">
               <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="e#562#563#0" expanded="true" />
@@ -256,15 +122,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/PrintTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-4">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -297,7 +158,6 @@
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/Symmetrical.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/PrintEdge.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/PrintListReverse.java" />
-        <option value="$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/NextNode.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/StackWithMin.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/IsPopOrder.java" />
@@ -307,6 +167,8 @@
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/InOrder.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/Contains.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/myoffer/DeserializeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/sort/Insert_sort.java" />
       </list>
     </option>
   </component>
@@ -330,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -348,33 +209,27 @@
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
-              <item name="myoffer" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557671892915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557672054573" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -452,18 +307,19 @@
       <workItem from="1556368407121" duration="600000" />
       <workItem from="1557587175805" duration="2489000" />
       <workItem from="1557653444432" duration="1000" />
-      <workItem from="1557671207615" duration="765000" />
+      <workItem from="1557671207615" duration="938000" />
+      <workItem from="1570977730901" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55639000" />
+    <option name="totallyTimeSpent" value="56472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22386059" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22654155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -478,11 +334,12 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" visible="true" weight="0.20821114" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" visible="true" weight="0.20821114" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.20821114" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.20821114" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -499,31 +356,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/RemoveLastKNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Recur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/PrintToMaxOfNDigits02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
@@ -548,17 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,6 +422,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/backtracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Clone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/PrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/PrintListReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -611,16 +481,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Match.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/InOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="226">
+          <caret line="29" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/DeserializeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Contains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Symmetrical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
+        <state relative-caret-position="452">
           <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#554#555#0" expanded="true" />
@@ -636,80 +528,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/RemoveLastKNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        <state relative-caret-position="364">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Recur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/ReConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/backtracking.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="-4">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Contains.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/sort/Insert_sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/PrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Clone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/InOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/myoffer/DeserializeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
